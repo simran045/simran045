@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
 
-<center><i class="em em-desktop_computer" aria-role="presentation" aria-label=""></i><p>My Workspace</p></center>
+<center>🖥<p>My Workspace</p></center>
