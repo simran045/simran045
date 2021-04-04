@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simran045&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran045&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+
 <center><i class="em em-desktop_computer" aria-role="presentation" aria-label=""></i><p>My Workspace</p></center>
