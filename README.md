@@ -1,7 +1,10 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p> My name is Kumari Simran and I'm a MCA pre-final year student at Motilal Nehru National Institute of Technology, Allahabad. </p>
+<p> My name is Kumari Simran and I'm a MCA pre-final year student at Motilal Nehru National Institute of Technology, Prayagraj, Uttar Pradesh. </p>
+<p> - 🔭 I’m currently studying at MNNIT, Prayagraj</p>
 <p> - 🤔 Seeking a challenging and rewarding opportunity with an organization of repute which recognizes my true potential and effectively
 utilizes/nurtures my excellent analytical and technical skills in IT Industry Software </p>
+<p> - 💬 Ask me about anything here</p>
+
 <p><b>☎️ How to reach me</b></p>
 <!--<p><b>🔧 Technologies and Tools</b></p> -->
 
@@ -11,8 +14,13 @@ utilizes/nurtures my excellent analytical and technical skills in IT Industry So
 ![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)
 
+
 <center>🖥 My Workspace </center>
-<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Windows-ASUS_VivoBook-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-ASUS_VivoBook-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+
 
 <!--
 **simran045/simran045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
