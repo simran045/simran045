@@ -3,7 +3,6 @@
 <p> - 🤔 I’m looking for help with ... </p>
 
 <p><b>🔧 Technologies and Tools</b></p>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **simran045/simran045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
