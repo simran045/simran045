@@ -1,5 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p> My name is Kumari Simran and I'm a MCA pre-final year student at Motilal Nehru National Institute of Technology, Allahabad. </p>
+<p> - 🤔 I’m looking for help with ... </p>
+### Hello Folks!
+<p><b>🔧 Tools and Technologies</b></p>
 
 <!--
 **simran045/simran045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
