@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p> My name is Kumari Simran and I'm a MCA pre-final year student at Motilal Nehru National Institute of Technology, Allahabad. </p>
-<p> - 🤔 I’m looking for help with ... </p>
+<p> - 🤔 Seeking a challenging and rewarding opportunity with an organization of repute which recognizes my true potential and effectively
+utilizes/nurtures my excellent analytical and technical skills in IT Industry Software </p>
 <p><b>☎️ How to reach me</b></p>
 <!--<p><b>🔧 Technologies and Tools</b></p> -->
 
