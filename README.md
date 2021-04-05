@@ -16,9 +16,7 @@ utilizes/nurtures my excellent analytical and technical skills in IT Industry So
 
 <h3>🖥 My Workspace </h3>
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali-0078D6?style=for-the-badge&logo=kali&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white"/>  <img src="https://img.shields.io/badge/Kali-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 
 
