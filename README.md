@@ -1,19 +1,19 @@
-# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Happy you're here 😄!
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)
 
 
-<p> Howdy! I' m Kumari Simran, a pre-final year postgraduate student with a great passion for programming.</p>
-<p> - 🔭 I’m currently pursuing Master of Computer Applications at Motilal Nehru National Institute of Technology, Allahabad. </p>
-<p> - 🌱 I’m here to learn new things and collaborate on interesting projects .</p>
-<!--<p> - 🤔 Seeking a challenging and rewarding opportunity with an organization of repute which recognizes my true potential and effectively
-utilizes/nurtures my excellent analytical and technical skills in IT Industry Software. </p> -->
+<p> Howdy! I' m Kumari Simran, a pre-final year postgraduate student with a great passion for programming </p>
+<p> - 🔭 I’m currently pursuing Master of Computer Applications at Motilal Nehru National Institute of Technology, Allahabad </p>
+<p> - 🌱 I’m here to learn new things and collaborate on interesting projects </p>
+<p> - 🤔 Currently looking for Summer Internship Opportunities </p> 
 <p> - 💬 Ask me about anything here</p>
+<p> - 📫 How to reach me: Email me! </p>
 <p> - 😄 Pronouns: she, her, hers </p>
 <p> - ⚡ Fun fact: ‘Wolfing’ it down </p>
 
 
-### ☎️ How to reach me:
+### ☎️ Connect with me
 
 <a href="https://twitter.com/nitiansimran/">
   <img
