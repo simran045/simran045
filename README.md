@@ -5,7 +5,7 @@
 utilizes/nurtures my excellent analytical and technical skills in IT Industry Software </p>
 <p> - 💬 Ask me about anything here</p>
 
-<p><b>☎️ How to reach me</b></p>
+<h3>☎️ How to reach me</h3>
 <!--<p><b>🔧 Technologies and Tools</b></p> -->
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <img alt="Instagram" src="https://img.shields.io/badge/<simran_singh.0>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -14,8 +14,7 @@ utilizes/nurtures my excellent analytical and technical skills in IT Industry So
 ![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)
 
-
-<center>🖥 My Workspace </center>
+<h3>🖥 My Workspace </h3>
 
 <img src="https://img.shields.io/badge/Windows-ASUS_VivoBook-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-ASUS_VivoBook-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
