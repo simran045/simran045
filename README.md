@@ -1,14 +1,16 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/the-simran"
+<a href="https://twitter.com/nitiansimran/">
+  <img
+    alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square"/>
+</a>
+<a href="https://www.instagram.com/simran_singh.0/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"/>
+</a>
+<a href="https://www.linkedin.com/in/the-simran/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat-square"/>
+</a>
 
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/nitiansimran"
 ![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)
 
