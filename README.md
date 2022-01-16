@@ -35,7 +35,7 @@
 ✔ - 🔭 I’m currently Developing **Paycron** Payment Gateway **@Genpact**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ - 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> --> 
-✔ I use to write coad on [leetcode](https://leetcode.com/simran_1/) <br>
+✔ I use to write code on [leetcode](https://leetcode.com/simran_1/) <br>
 ✔ Ask 💬 me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : ⚡ *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 
