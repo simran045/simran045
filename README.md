@@ -32,7 +32,7 @@
 <!--![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)-->
 
 ✔ Pronouns: 😄 ***She/Her/Hers*** or ***TeamMaker***😉 <br>
-✔ - 🔭 I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
+✔ - 🔭 I’m currently Developing **Paycron** Payment Gateway **@Genpact**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ - 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> --> 
 ✔ I use to write coad on [leetcode](https://leetcode.com/simran_1/) <br>
