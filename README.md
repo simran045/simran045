@@ -35,7 +35,7 @@
 <!--![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)-->
 
 ✔ Pronouns: 😄 ***She/Her/Hers*** or ***TeamMaker***😉 <br>
-✔ - 🔭 I’m currently Developing an **Intern**  **@Genpact**<br>
+✔ - 🔭 I’m currently an **Intern**  **@Genpact**<br>    <!--✔ - 🔭 I’m currently Developing an **Intern**  **@Genpact**<br> -->
 ✔ I’m currently learning **Advanced JAVA** & **FrontEnd Development**<br>
 ✔ - 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> --> 
 ✔ I use to write code on [leetcode](https://leetcode.com/simran_1/) <br>
