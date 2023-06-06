@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    Howdy! This is ME, Simran, a <b>final year</b> postgraduate from <a href="http://www.mnnit.ac.in/"> <b>Motilal Nehru National Institute of Technology</b>, Allahabad</a>. <br>
+    Howdy! This is ME, Simran, a <b>Associate Software Engineer</b> working at <a href="http://www.mnnit.ac.in/"> <bUnitedHealth Group</b>, Gurugram, India</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -35,8 +35,9 @@
 <!--![Profile View Counter](https://komarev.com/ghpvc/?username=simran045)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)-->
 
 ✔ Pronouns: 😄 ***She/Her/Hers*** or ***TeamMaker***😉 <br>
-✔ - 🔭 I’m currently an **Intern**  **@Genpact**<br>    <!--✔ - 🔭 I’m currently Developing an **Intern**  **@Genpact**<br> -->
-✔ I’m currently learning **Advanced JAVA** & **FrontEnd Development**<br>
+✔ - 🔭 I’m currently working as **Software Engineer**  **@Optum(UnitedHealth Group)**<br>    <!--✔ - 🔭 I’m currently Developing an **Intern**  **@Genpact**<br> -->
+✔ I’m currently learning **FrontEnd Development** & **Performance Testing** &<br>
+✔ - 🔭 Before this I was working as **Software Engineer Intern**  **@Genpact**<br> 
 ✔ - 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> --> 
 ✔ I use to write code on [leetcode](https://leetcode.com/simran_1/) <br>
 ✔ Ask 💬 me about anything, I am happy to help, only if the ball is in my court!😉<br>
